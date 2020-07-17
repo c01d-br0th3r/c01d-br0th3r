@@ -1,8 +1,8 @@
 ## Front-End Developer 👨🏻‍💻
 
 ```javascript
-const SayHello: React.FC<IProps> = () => (
-  <div> {`interest: ${React_Js} / ${Typescript} / ${UI_UX}`} </div>
+const Interest: React.FC<IProps> = () => (
+  <> {` ${React_Js} , ${Typescript} , ${Security} `} </>
 )
 ```
 
