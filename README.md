@@ -1,8 +1,6 @@
 ## Front-End Developer 👨🏻‍💻
 
-* `React.js`
-* `Typescript`
-* `UI / UX`
+Interest: `React.js` / `Typescript` / `UI / UX`
 
 <div align=center>
   
