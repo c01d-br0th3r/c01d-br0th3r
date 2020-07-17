@@ -1,8 +1,8 @@
 ## Front-End Developer 👨🏻‍💻
 
-```jsx
+```tsx
 const SayHello: React.FC<IProps> = () => (
-  <div>{`interest: ${React_Js} / ${Typescript} / ${UI_UX}`}</div>
+  <div> {`interest: ${React_Js} / ${Typescript} / ${UI_UX}`} </div>
 )
 ```
 
