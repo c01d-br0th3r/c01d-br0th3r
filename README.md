@@ -1,6 +1,10 @@
 ## Front-End Developer 👨🏻‍💻
 
-Interest: `React.js` / `Typescript` / `UI / UX`
+```jsx
+const SayHello: React.FC<IProps> = () => (
+  <div>{`interest: ${React_Js} / ${Typescript} / ${UI_UX}`}</div>
+)
+```
 
 <div align=center>
   
