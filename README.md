@@ -1,8 +1,8 @@
 ## Front-End Developer 👨🏻‍💻
 
-```javascript
+```
 const Interest: React.FC<IProps> = () => (
-  <> {` ${ ReactJs } , ${ Typescript } , ${ Security } `} </>
+  <div> {` ${ ReactJs } , ${ Typescript } , ${ Security } `} </div>
 )
 ```
 
