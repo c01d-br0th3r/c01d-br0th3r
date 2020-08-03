@@ -1,6 +1,6 @@
 ## Front-End Developer 👨🏻‍💻
 
-```tsx
+```javascript
 const Interest: React.FC<IProps> = () => (
   <div> {` ${ ReactJs } , ${ Typescript } , ${ Security } `} </div>
 )
