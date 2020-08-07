@@ -2,7 +2,7 @@
 
 ```javascript
 const Interest: React.FC<IProps> = () => (
-  <div> {` ${ ReactJs } , ${ Typescript } , ${ Security } `} </div>
+  <div> {` ${ React.js } , ${ Typescript } , ${ Security } `} </div>
 )
 ```
 
