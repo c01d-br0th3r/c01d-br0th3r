@@ -1,9 +1,9 @@
 ## Front-End Developer 👨🏻‍💻
 
 ```javascript
-const Interest: React.FC<IProps> = () => (
+const Interest: React.FC<IProps> = () => {
   return ( <Fragment> {` ${ React.js } , ${ Typescript } , ${ Security } `} </Fragment> );
-)
+}
 ```
 
 <div align=center>
