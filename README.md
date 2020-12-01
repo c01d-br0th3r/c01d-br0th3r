@@ -2,7 +2,7 @@
 
 ```javascript
 const Interest: React.FC<IProps> = () => (
-  return ( <Fragment> {` ${ React.js } , ${ Typescript } , ${ Security } , ${ Algorithm } `} </Fragment> );
+  return ( <Fragment> {` ${ React.js } , ${ Typescript } , ${ Security } `} </Fragment> );
 )
 ```
 
